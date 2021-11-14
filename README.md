@@ -1,6 +1,6 @@
 # Awesome Investing
 
-List of awesome investing tools and softwares
+😎 List of awesome investing tools and software
 
 # Learning
 
