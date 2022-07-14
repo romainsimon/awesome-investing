@@ -2,6 +2,8 @@
 
 😎 List of awesome investing tools and software
 
+I shared more information on some of these software in this blog article : [https://beanvest.com/blog/best-investing-software](https://beanvest.com/blog/best-investing-software)
+
 # Learning
 
 ## Videos
