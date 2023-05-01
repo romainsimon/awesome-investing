@@ -69,6 +69,12 @@ I shared more information on some of these software in this blog article : [http
 |[Robinhood](https://robinhood.com/)|Platform for comissionless stock and crypto trading|
 |[Vanguard](https://investor.vanguard.com/home/)|Wealth management with investment accounts and investing advisors
 
+# Stock Alerts
+
+| Link          | Description   |
+|:--------------|:--------------|
+|[Cryptocurrency Alerting Stock Alerts](https://cryptocurrencyalerting.com/stock-alerts.html)|Stock and ETF alerts with support for emails, SMS, phone calls, Slack, Discord and more  |
+
 
 ❤️ = personal favorite
 
