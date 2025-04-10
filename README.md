@@ -54,6 +54,8 @@ I shared more information on some of these software in this blog article : [http
 | Link          | Description   |
 |:--------------|:--------------|
 |[Value investors club](https://www.valueinvestorsclub.com/)|Forum where top investors share their best ideas  |
+|[ChaChing Social](https://www.chaching.social/)|Social Network for Finance  |
+
 
 
 # Brokers
