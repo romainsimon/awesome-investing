@@ -39,6 +39,7 @@ I shared more information on some of these software in this blog article : [http
 
 | Link          | Description   |
 |:--------------|:--------------|
+|[13F Insight](https://13finsight.com/)|Track institutional investor 13F holdings with AI-powered analysis and portfolio tracking|
 |[Dataroma](https://www.dataroma.com/)|Track stock picks and portfolios of legendary value investors such as Warren Buffett|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
 
