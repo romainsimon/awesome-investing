@@ -18,6 +18,7 @@ I shared more information on some of these software in this blog article : [http
 | Link          | Description   |
 |:--------------|:--------------|
 |[Investopedia](https://www.investopedia.com/)|❤️ Encyclopedia for all things investing & investment simulation game|
+|[KeepRule](https://keeprule.com/)|Investment principles and decision-making wisdom from Buffett, Munger, and 26 legendary investors|
 
 # Screeners / Stock research
 
