@@ -33,6 +33,7 @@ I shared more information on some of these software in this blog article : [http
 |[Stockopedia](https://www.stockopedia.com/)|❤️ Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
+|[iGotFomo](https://igotfomo.com/)|AI-powered stock screener with convergence signals across 6,000+ stocks, options flow, backtesting, and free embeddable ticker widget|
 
 
 # Insider / Superinvestors portfolios
