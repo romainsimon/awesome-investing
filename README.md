@@ -33,6 +33,7 @@ I shared more information on some of these software in this blog article : [http
 |[Stockopedia](https://www.stockopedia.com/)|❤️ Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
+|[KeepRule](https://keeprule.com/)|AI-powered investment principles platform curating wisdom from 26+ legendary investors (Buffett, Munger, Dalio) with AI scenario analysis|
 
 
 # Insider / Superinvestors portfolios
