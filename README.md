@@ -18,7 +18,7 @@ I shared more information on some of these software in this blog article : [http
 | Link          | Description   |
 |:--------------|:--------------|
 |[Investopedia](https://www.investopedia.com/)|❤️ Encyclopedia for all things investing & investment simulation game|
-
+|[KeepRule](https://keeprule.com/)|Free database of 1,377 investment principles from 26 legendary investors (Buffett, Munger, Graham, Dalio). AI chat, psychology tests, and master comparisons|
 # Screeners / Stock research
 
 | Link          | Description   |
