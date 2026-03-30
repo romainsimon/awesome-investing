@@ -70,5 +70,10 @@ I shared more information on some of these software in this blog article : [http
 |[Vanguard](https://investor.vanguard.com/home/)|Wealth management with investment accounts and investing advisors
 
 
+# Congressional Trade Tracking (AI-powered)
+
+| Link           | Description    |
+|:--------------|:--------------|
+|[CongressionalStockBrain](https://congressionalstockbrain.com)|AI-powered tool that ingests publicly filed U.S. STOCK Act congressional trade disclosures and converts them into machine-scored trade signals. Free tier; Pro at $7.77/month.|
 ❤️ = personal favorite
 
