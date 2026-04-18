@@ -18,6 +18,7 @@ I shared more information on some of these software in this blog article : [http
 | Link          | Description   |
 |:--------------|:--------------|
 |[Investopedia](https://www.investopedia.com/)|❤️ Encyclopedia for all things investing & investment simulation game|
+|[The Stock Radar](https://thestockradar.com)|Daily multi-language (EN/KO/JA/zh-TW/HI/DE) stock analysis across 6 markets — US, Korea, Japan, Taiwan, India, Germany. Technical & fundamental coverage of daily movers, earnings, and weekly research|
 
 # Screeners / Stock research
 
