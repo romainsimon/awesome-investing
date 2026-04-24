@@ -50,13 +50,13 @@ First, before you start to invest why not learn a thing or two?
 |[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Magic Formula Investing](https://www.magicformulainvesting.com/)|Joel Greenblatt's screener from The Little Book That Beats the Market|
-|[Morningstar](https://www.morningstar.com/)| Independent research, ratings, and tools for investing|
-|[Motley Fool](https://www.fool.com/)|Advice for investing beginners and experts as well as important up to date news|
+|[Motley Fool](https://www.fool.com/)|Advice for investing beginners and experts as well as important up to date news. "We found 10 stocks better than this. Upgrade now"|
 |[Screener.in](https://www.screener.in/)|Stock Screener and fundamental analysis tool for Indian stocks (India)|
 |[Stockopedia](https://www.stockopedia.com/)|Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
+|[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
 
 # Insider & Superinvestors portfolios
 
@@ -68,6 +68,7 @@ First, before you start to invest why not learn a thing or two?
 |[Stockcircle](https://stockcircle.com/)|See how the best investors invest|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
 |[Quiver Quant](https://www.quiverquant.com/)|Insider trading tracking|
+|[Capitol Trades](https://www.capitoltrades.com/)|The name is pretty explicit|
 
 # Forums & Communities
 
