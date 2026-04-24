@@ -61,6 +61,7 @@ First, before you start to invest why not learn a thing or two?
 | Link          | Description   |
 |:--------------|:--------------|
 |[Dataroma](https://www.dataroma.com/)|❤️ Track stock picks and portfolios of legendary value investors such as Warren Buffett|
+|[Valuesider](https://valuesider.com/)|❤️ Track superinvestors. The one interesting feature that Dataroma does not have is a chart of each portfolio total value|
 |[Stockcircle](https://stockcircle.com/)|See how the best investors invest|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
 |[Quiver Quant](https://www.quiverquant.com/)|Insider trading tracking|
