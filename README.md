@@ -42,10 +42,11 @@ First, before you start to invest why not learn a thing or two?
 | Link          | Description   |
 |:--------------|:--------------|
 |[Beanvest](https://beanvest.com/)|❤️ Quality Investing research. This is my website.|
-|[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks|
+|[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks (Pro tip: private browsing)|
 |[Fiscal](https://fiscal.ai/)|❤️ Financial Data and screener|
-|[Morningstar](https://www.morningstar.com/)|❤️ Research companies and their moat (Pro tip: if you use [Interactive Brokers](https://ibkr.com/referral/romain334) you get access to this for free)|
+|[Morningstar](https://www.morningstar.com/)|❤️ Research companies and their moat (Pro tip: if you use [Interactive Brokers](https://ibkr.com/referral/romain334) you get this for free)|
 |[Quartr](https://quartr.com/)|❤️ Great mobile app to listen to earning calls|
+|[TradingView](https://www.tradingview.com/)|❤️ Want charts ? This is what you need.|
 |[Fastgraph](https://www.fastgraphs.com/)|FAST Graphs is a stock research tool to conduct fundamental stock research|
 |[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
@@ -75,14 +76,14 @@ First, before you start to invest why not learn a thing or two?
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Value investors club](https://www.valueinvestorsclub.com/)|Forum where top investors share their best ideas  |
+|[Value investors club](https://www.valueinvestorsclub.com/)|Forum where top investors share their best ideas. (Pro tip: none. I never managed to get membership)|
 
 
 # Brokers
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Interactive Brokers](https://ibkr.com/referral/romain334)|❤️ Simply the best investing platform for serious investors. This is my referral link so you can **earn up to USD 1,000 in IBKR stock** if you use it to register.|
+|[Interactive Brokers](https://ibkr.com/referral/romain334)|❤️ Simply the best investing platform for serious investors. (Pro tip: This is my referral link so you can **earn up to USD 1,000 in IBKR stock** when you signup)|
 |[Ameritrade](https://www.tdameritrade.com/home.page)|wealth management with flat rate commisions and a $600 bonus for your first funded account
 |[Blackrock](https://www.blackrock.com/investing)|Wealth management with long term investment accounts and planning|
 |[Degiro](https://www.degiro.com/)|DEGIRO is Europe's fastest growing online stock broker with extremely low trading commissions|
