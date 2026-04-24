@@ -1,13 +1,13 @@
 # Awesome Investing
 
-😎 List of awesome investing tools and software, mostly about investing in stocks
+😎 List of awesome investing tools and software, mostly about investing in stocks.
 
 # Learning
 
 ## Free courses
 | Link          | Description   |
 |:--------------|:--------------|
-|[Learn to Invest](https://beanvest.com/learn)| ❤️ Interactive course with 14 free lessons about investing in stocks, from beginner to advanced strategies. Also available in [🇫🇷 French](https://beanvest.com/fr/learn)|
+|[Learn to Invest](https://beanvest.com/learn)| ❤️ 100% free interactive course with 14 lessons about investing in stocks, from beginner to advanced strategies. Also available in [🇫🇷 French](https://beanvest.com/fr/learn)|
 
 ## Videos
 
@@ -15,6 +15,11 @@
 |:--------------|:--------------|
 |[Investment Philosophies](https://www.youtube.com/watch?v=h37fJcDjjWg&list=PLUkh9m2BorqlDJlnBXUaJaMRNE7UDckn6&ab_channel=AswathDamodaran)|Investment Philosophies video series by Aswath Damodaran|
 |[Valuation](https://www.youtube.com/watch?v=znmQ7oMiQrM&list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9&ab_channel=AswathDamodaran)|Valuation courses video series by Aswath Damodaran|
+|[Interview of Dev Kantessaria](https://www.youtube.com/watch?v=nt5jnCCW2iM)|One of the rare interviews of super investor Dev Kantessaria|
+|[Interview of Chris Hohn](https://www.youtube.com/watch?v=M01NZc2QlDk)|One of the rare interviews of super investor Chris Hohn|
+|[Warren Buffett & Charlie Munger compilation](https://www.youtube.com/watch?v=rEZukMdkQiA)|Warren Buffett & Charlie Munger: 100 Years of Financial Wisdom in 4 Hour|
+|[Peter Lynch interview](https://www.youtube.com/watch?v=YIlurDigZcY)|How Peter Lynch Became The Greatest Fund Manager Of All Time|
+|[How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0&list=PLykIL_1_MFWmS82OuK8CBCow_QHUJuBes)|Playlist with all videos from "How The Economic Machine Works"|
 
 ## Websites
 
@@ -26,8 +31,10 @@
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Beanvest](https://beanvest.com/)|❤️ Quality Investing research|
-|[Fiscal](https://fiscal.ai/))|❤️ Financial Data and screener|
+|[Beanvest](https://beanvest.com/)|❤️ Quality Investing research. This is my website.|
+|[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks|
+|[Fiscal](https://fiscal.ai/)|❤️ Financial Data and screener|
+|[Morningstar](https://www.morningstar.com/)|❤️ Research companies and their moat (Pro tip: if you use [Interactive Brokers](https://ibkr.com/referral/romain334) you get access to this for free)|
 |[Fastgraph](https://www.fastgraphs.com/)|FAST Graphs is a stock research tool to conduct fundamental stock research|
 |[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
@@ -60,7 +67,7 @@
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Interactive Brokers](https://www.interactivebrokers.co.uk)|❤️ Leading online trading solutions for traders, investors and advisors, with direct global access to stocks, options, futures, currencies, bonds and funds. Transparent, low commissions and financing rates and support for best execution.|
+|[Interactive Brokers](https://ibkr.com/referral/romain334)|❤️ Simply the best investing platform for serious investors. This is my referral link so you can **earn up to USD 1,000 in IBKR stock** if you use it to register.|
 |[Ameritrade](https://www.tdameritrade.com/home.page)|wealth management with flat rate commisions and a $600 bonus for your first funded account
 |[Blackrock](https://www.blackrock.com/investing)|Wealth management with long term investment accounts and planning|
 |[Degiro](https://www.degiro.com/)|DEGIRO is Europe's fastest growing online stock broker with extremely low trading commissions|
