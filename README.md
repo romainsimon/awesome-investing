@@ -57,6 +57,7 @@ First, before you start to invest why not learn a thing or two?
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
 |[KoyFin](https://www.koyfin.com/)|Investment research tool|
 |[Seeking Alpha](https://seekingalpha.com/)|Some people write their research. Some people pay.|
+|[ROIC.ai](https://www.roic.ai)|Minimalistic financial data for public companies|
 
 # Insider & Superinvestors portfolios
 
