@@ -1,10 +1,13 @@
 # Awesome Investing
 
-😎 List of awesome investing tools and software
-
-I shared more information on some of these software in this blog article : [https://beanvest.com/blog/best-investing-software](https://beanvest.com/blog/best-investing-software)
+😎 List of awesome investing tools and software, mostly about investing in stocks
 
 # Learning
+
+## Free courses
+| Link          | Description   |
+|:--------------|:--------------|
+|[Learn to Invest](https://beanvest.com/learn)| ❤️ Interactive course with 14 free lessons about investing in stocks, from beginner to advanced strategies. Also available in [🇫🇷 French](https://beanvest.com/fr/learn)|
 
 ## Videos
 
@@ -23,14 +26,16 @@ I shared more information on some of these software in this blog article : [http
 
 | Link          | Description   |
 |:--------------|:--------------|
+|[Beanvest](https://beanvest.com/)|❤️ Quality Investing research|
+|[Fiscal](https://fiscal.ai/))|❤️ Financial Data and screener|
 |[Fastgraph](https://www.fastgraphs.com/)|FAST Graphs is a stock research tool to conduct fundamental stock research|
-|[Finbox](https://finbox.com/)|❤️ Stock screener for investors and traders, financial visualizations (US)|
+|[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Magic Formula Investing](https://www.magicformulainvesting.com/)|Joel Greenblatt's screener from The Little Book That Beats the Market|
 |[Morningstar](https://www.morningstar.com/)| Independent research, ratings, and tools for investing|
 |[Motley Fool](https://www.fool.com/)|Advice for investing beginners and experts as well as important up to date news|
 |[Screener.in](https://www.screener.in/)|Stock Screener and fundamental analysis tool for Indian stocks (India)|
-|[Stockopedia](https://www.stockopedia.com/)|❤️ Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
+|[Stockopedia](https://www.stockopedia.com/)|Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
 
@@ -39,14 +44,9 @@ I shared more information on some of these software in this blog article : [http
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Dataroma](https://www.dataroma.com/)|Track stock picks and portfolios of legendary value investors such as Warren Buffett|
+|[Dataroma](https://www.dataroma.com/)|❤️ Track stock picks and portfolios of legendary value investors such as Warren Buffett|
+|[Stockcircle](https://stockcircle.com/)|See how the best investors invest|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
-
-# Portfolio trackers
-
-| Link          | Description   |
-|:--------------|:--------------|
-|[Beanvest](https://beanvest.com/)|❤️ The best stock portfolio tracker for investors|
 
 
 # Forums / Communities
@@ -60,11 +60,11 @@ I shared more information on some of these software in this blog article : [http
 
 | Link          | Description   |
 |:--------------|:--------------|
+|[Interactive Brokers](https://www.interactivebrokers.co.uk)|❤️ Leading online trading solutions for traders, investors and advisors, with direct global access to stocks, options, futures, currencies, bonds and funds. Transparent, low commissions and financing rates and support for best execution.|
 |[Ameritrade](https://www.tdameritrade.com/home.page)|wealth management with flat rate commisions and a $600 bonus for your first funded account
 |[Blackrock](https://www.blackrock.com/investing)|Wealth management with long term investment accounts and planning|
-|[Degiro](https://www.degiro.com/)|❤️ DEGIRO is Europe's fastest growing online stock broker with extremely low trading commissions|
+|[Degiro](https://www.degiro.com/)|DEGIRO is Europe's fastest growing online stock broker with extremely low trading commissions|
 |[Fidelity](https://www.fidelity.com/)|Lower fee investing and Wealth Management|
-|[Interactive Brokers](https://www.interactivebrokers.co.uk)|❤️ Leading online trading solutions for traders, investors and advisors, with direct global access to stocks, options, futures, currencies, bonds and funds. Transparent, low commissions and financing rates and support for best execution.|
 |[Morgan Stanley](https://www.morganstanley.com)|Wealth management business which offers a variety of investment accounts|
 |[Robinhood](https://robinhood.com/)|Platform for comissionless stock and crypto trading|
 |[Vanguard](https://investor.vanguard.com/home/)|Wealth management with investment accounts and investing advisors
