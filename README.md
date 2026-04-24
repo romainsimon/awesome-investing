@@ -4,7 +4,7 @@
 
 # Learn to Invest
 
-First, before you start to invest
+First, before you start to invest why not learn a thing or two?
 
 ## Free courses
 | Link          | Description   |
