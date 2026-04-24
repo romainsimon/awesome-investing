@@ -45,6 +45,7 @@ First, before you start to invest why not learn a thing or two?
 |[GuruFocus](https://www.gurufocus.com/)|❤️ One of the best platforms to research stocks|
 |[Fiscal](https://fiscal.ai/)|❤️ Financial Data and screener|
 |[Morningstar](https://www.morningstar.com/)|❤️ Research companies and their moat (Pro tip: if you use [Interactive Brokers](https://ibkr.com/referral/romain334) you get access to this for free)|
+|[Quartr](https://quartr.com/)|❤️ Great mobile app to listen to earning calls|
 |[Fastgraph](https://www.fastgraphs.com/)|FAST Graphs is a stock research tool to conduct fundamental stock research|
 |[Finbox](https://finbox.com/)|Stock screener for investors and traders, financial visualizations (US)|
 |[Finviz](https://finviz.com/)|Stock screener for investors and traders, financial visualizations (US)|
@@ -55,6 +56,7 @@ First, before you start to invest why not learn a thing or two?
 |[Stockopedia](https://www.stockopedia.com/)|Stock screener with their Quality, Value and Momentum (US, Europe, Asia, ...)|
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
+|[KoyFin](https://www.koyfin.com/)|Investment research tool|
 
 # Insider & Superinvestors portfolios
 
@@ -62,6 +64,7 @@ First, before you start to invest why not learn a thing or two?
 |:--------------|:--------------|
 |[Dataroma](https://www.dataroma.com/)|❤️ Track stock picks and portfolios of legendary value investors such as Warren Buffett|
 |[Valuesider](https://valuesider.com/)|❤️ Track superinvestors. The one interesting feature that Dataroma does not have is a chart of each portfolio total value|
+|[HedgeFollow](https://hedgefollow.com/)|World's Largest Hedge Fund Tracker, with 10,000+ Funds and 100K+ Insiders|
 |[Stockcircle](https://stockcircle.com/)|See how the best investors invest|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
 |[Quiver Quant](https://www.quiverquant.com/)|Insider trading tracking|
