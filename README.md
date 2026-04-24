@@ -1,8 +1,10 @@
 # Awesome Investing
 
-😎 List of awesome investing tools and software, mostly about investing in stocks.
+😎 List of awesome investing tools and software, mostly about investing in stocks. This list is not the longest one, but the list of the most awesome resources in my opinion that I wished someone shared with me and I'm using.
 
-# Learning
+# Learn to Invest
+
+First, before you start to invest
 
 ## Free courses
 | Link          | Description   |
@@ -21,13 +23,21 @@
 |[Peter Lynch interview](https://www.youtube.com/watch?v=YIlurDigZcY)|How Peter Lynch Became The Greatest Fund Manager Of All Time|
 |[How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0&list=PLykIL_1_MFWmS82OuK8CBCow_QHUJuBes)|Playlist with all videos from "How The Economic Machine Works"|
 
-## Websites
+## Books
 
 | Link          | Description   |
 |:--------------|:--------------|
-|[Investopedia](https://www.investopedia.com/)|❤️ Encyclopedia for all things investing & investment simulation game|
+|[Richer, Wiser, Happier](https://amzn.to/3PI8B7O)|How the World's Greatest Investors Win in Markets and Life|
+|[Beating the Street](https://amzn.to/3Bde3vl)|Peter Lynch's books is probably one of the easiest intro to stockpicking|
+|[One Up On Wall Street](https://amzn.to/3okp32f)|This is the one to read after Beating the Street if you enjoyed it|
+|[100-Baggers](https://amzn.to/3RV00kb)|Analysis of stocks that returned 100x to try to find common criterias|
+|[The Intelligent Investor](https://amzn.to/3PI8etW)|This is a classic. Maybe a bit outdated and hard to read, but it's Buffet's favorite.|
+|[Laughing at Wall Street](https://amzn.to/3Ot28wt)|Chris Camillo's approach is so different from usual strategies, it's refreshing to read.|
+|[Berkshire Hathaway Letters to Shareholders: 1965-2024](https://amzn.to/41Sd0gA)|Want to read all shareholder letters from the best investor in the world? This is the one big book to read.|
 
-# Screeners / Stock research
+## Stock Research
+
+# Screeners & Stock research
 
 | Link          | Description   |
 |:--------------|:--------------|
@@ -46,17 +56,16 @@
 |[Tipranks](https://www.tipranks.com/)|Analyst and bloggers recommendations and performance records|
 |[YCharts](https://ycharts.com/)|Investment research platform based on charts|
 
-
-# Insider / Superinvestors portfolios
+# Insider & Superinvestors portfolios
 
 | Link          | Description   |
 |:--------------|:--------------|
 |[Dataroma](https://www.dataroma.com/)|❤️ Track stock picks and portfolios of legendary value investors such as Warren Buffett|
 |[Stockcircle](https://stockcircle.com/)|See how the best investors invest|
 |[Whale Wisdom](https://whalewisdom.com/)|Research & Replicate Portfolios of the World's Best Investors|
+|[Quiver Quant](https://www.quiverquant.com/)|Insider trading tracking|
 
-
-# Forums / Communities
+# Forums & Communities
 
 | Link          | Description   |
 |:--------------|:--------------|
