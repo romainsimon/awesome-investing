@@ -95,3 +95,5 @@ First, before you start to invest why not learn a thing or two?
 
 ❤️ = personal favorite
 
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — Quantitative prediction market platform with CLOB exchange on Base L2. 10 AI agents, real-time orderbook data, pre-launch TGE token predictions. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
